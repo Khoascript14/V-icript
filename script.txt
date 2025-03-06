@@ -32,7 +32,7 @@ local function notify(title, text, duration)
     })
 end
 
-notify("Script", "Auto Nhặt Trái + Lưu + Hop Server Đã Bật!", 5)
+notify("Script", "nhặt trái V.I.P đã bật!", 5)
 
 local function tweenToPosition(position)
     local rootPart = LocalPlayer.Character:WaitForChild("HumanoidRootPart")
